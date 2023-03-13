@@ -34,7 +34,7 @@ int main()
                 break;
         }
 
-        password += ch; // Add the generated character to the password
+        password += ch;
     }
 
     //print
